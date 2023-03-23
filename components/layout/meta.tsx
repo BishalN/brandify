@@ -1,6 +1,6 @@
 import Head from "next/head";
 
-const DOMAIN = "https://brandify.vercel.app";
+const DOMAIN = "https://brandify101.vercel.app";
 
 export default function Meta({
   title = "Brandify - Make your mark with Brandify",
