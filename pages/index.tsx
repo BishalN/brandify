@@ -86,21 +86,21 @@ export default function Home() {
             <p>Star on GitHub</p>
           </a>
         </motion.div>
-        {/* <motion.a
+        <motion.a
           variants={FADE_DOWN_ANIMATION_VARIANTS}
-          href="https://www.producthunt.com/posts/threadgenie?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-threadgenie"
+          href="https://www.producthunt.com/posts/brandify?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-brandify"
           target="_blank"
           rel="noreferrer"
           className="mx-auto my-5 flex max-w-fit items-center justify-center"
         >
           <img
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=377660&theme=neutral"
-            alt="ThreadGenie - The ultimate tool for crafting twitter threads | Product Hunt"
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=385398&theme=neutral"
+            alt="Brandify - Make your mark with Brandify | Product Hunt"
             style={{ width: 250, height: 54 }}
             width={250}
             height={54}
           />
-        </motion.a> */}
+        </motion.a>
         <Form />
       </motion.div>
     </Layout>
